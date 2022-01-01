@@ -1,6 +1,5 @@
-
 import { useEffect, useState } from "react";
-import Seo from "./Seo";
+import Seo from "../components/Seo";
 
 export default function Home() {
     const [movies, setMovies] = useState([]);

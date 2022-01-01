@@ -1,6 +1,6 @@
 import Head from "next/head";
-import NavBar from "../.next/components/NavBar";
-import Seo from "./Seo";
+import NavBar from "../components/NavBar";
+import Seo from "../components/Seo";
 
 export default function Potato() {
     return (<div>
